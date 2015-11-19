@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDailyKata", "MyDailyKata\MyDailyKata.csproj", "{7D7DA27A-5981-4EB8-98C1-62A8ACDE9A29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDailyKata.Facts", "MyDailyKata.Facts\MyDailyKata.Facts.csproj", "{D61E68A1-DC1A-417E-9FD0-8C4A11B433DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDailyKata.Specs", "MyDailyKata.Specs\MyDailyKata.Specs.csproj", "{9525F684-AEEF-470F-8FD4-7080AC6031C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D7DA27A-5981-4EB8-98C1-62A8ACDE9A29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D7DA27A-5981-4EB8-98C1-62A8ACDE9A29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D7DA27A-5981-4EB8-98C1-62A8ACDE9A29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D7DA27A-5981-4EB8-98C1-62A8ACDE9A29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D61E68A1-DC1A-417E-9FD0-8C4A11B433DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D61E68A1-DC1A-417E-9FD0-8C4A11B433DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D61E68A1-DC1A-417E-9FD0-8C4A11B433DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D61E68A1-DC1A-417E-9FD0-8C4A11B433DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9525F684-AEEF-470F-8FD4-7080AC6031C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9525F684-AEEF-470F-8FD4-7080AC6031C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9525F684-AEEF-470F-8FD4-7080AC6031C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9525F684-AEEF-470F-8FD4-7080AC6031C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
